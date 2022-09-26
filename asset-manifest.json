@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/food-app-khoinguyen-final/static/css/main.4beaefeb.css",
+    "main.js": "/food-app-khoinguyen-final/static/js/main.ad8bf6d7.js",
+    "static/media/food.png": "/food-app-khoinguyen-final/static/media/food.755f826548b56ec254d0.png",
+    "static/media/groceries.png": "/food-app-khoinguyen-final/static/media/groceries.db60123d47b394a1469a.png",
+    "static/media/demonstration-group.png": "/food-app-khoinguyen-final/static/media/demonstration-group.e4f8f1117444475c4566.png",
+    "static/media/logo.png": "/food-app-khoinguyen-final/static/media/logo.95be5655db8fe65a6e13.png",
+    "index.html": "/food-app-khoinguyen-final/index.html",
+    "main.4beaefeb.css.map": "/food-app-khoinguyen-final/static/css/main.4beaefeb.css.map",
+    "main.ad8bf6d7.js.map": "/food-app-khoinguyen-final/static/js/main.ad8bf6d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4beaefeb.css",
+    "static/js/main.ad8bf6d7.js"
+  ]
+}
